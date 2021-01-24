@@ -1,7 +1,7 @@
 import React from 'react';
 import { movies } from '../data';
 
-export default const Movies = () => {
+const Movies = () => {
   return (
     <div>
         <h1>Movies Page</h1>
@@ -20,3 +20,5 @@ export default const Movies = () => {
     </div>
   );
 };
+
+export default
