@@ -21,4 +21,4 @@ const Movies = () => {
   );
 };
 
-export default
+export default Movies;
