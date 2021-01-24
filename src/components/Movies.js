@@ -20,5 +20,3 @@ export default const Movies = () => {
     </div>
   );
 };
-
-export default Movies;
