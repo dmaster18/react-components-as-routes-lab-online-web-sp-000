@@ -20,4 +20,4 @@ const Directors = () => {
   );
 }
 
-export default
+export default Directors;
