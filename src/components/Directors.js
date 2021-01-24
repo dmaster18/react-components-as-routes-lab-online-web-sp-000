@@ -1,7 +1,7 @@
 import React from 'react';
 import { directors } from '../data';
 
-export default const Directors = () => {
+const Directors = () => {
   return (
     <div>
       <h1>Directors Page</h1>
@@ -19,3 +19,5 @@ export default const Directors = () => {
     </div>
   );
 }
+
+export default
