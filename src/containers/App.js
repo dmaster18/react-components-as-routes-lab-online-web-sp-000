@@ -10,7 +10,7 @@ import Directors from '../components/Directors';
 import Movies from '../components/Movies';
 
 
-export default const App = (props) => {
+const App = (props) => {
   return (
     <Router>
       <div className="app">
@@ -23,3 +23,5 @@ export default const App = (props) => {
     </Router>
   );
 };
+
+export default App;
