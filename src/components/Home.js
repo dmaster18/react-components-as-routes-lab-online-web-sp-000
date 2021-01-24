@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default const Home = () => {
+const Home = () => {
   return (
     <div>
       <h1>Home Page</h1>
@@ -8,3 +8,4 @@ export default const Home = () => {
   );
 };
 
+export default
