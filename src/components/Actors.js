@@ -1,7 +1,7 @@
 import React from 'react';
 import { actors } from '../data';
 
-export default const Actors = () => {
+const Actors = () => {
   return (
     <div>
       <h1>Actors Page</h1>
@@ -19,3 +19,5 @@ export default const Actors = () => {
     </div>
   );
 };
+
+export default
